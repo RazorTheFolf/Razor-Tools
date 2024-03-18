@@ -1,0 +1,13 @@
+{
+  "name": "com.razorthewolf.rt",
+  "version": "0.0.1",
+  "displayName": "Razor's Tools",
+  "description": "RazorTheWolf Tools for Unity, VRChat and more!",
+  "unity": "2022.3",
+  "unityRelease": "6f1",
+  "author": {
+    "name": "RazorTheWolf",
+    "email": "razor.sparks@outlook.com",
+    "url": "https://razorthewolf.tech"
+  }
+}
